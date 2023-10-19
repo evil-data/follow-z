@@ -38,7 +38,7 @@ pkg install git
 ```
 ####seventh command
 ```
-git clone https://github.com/maker5458/follow-z
+git clone https://github.com/evil-data/follow-z
 ```
 ####eights command
 ```
