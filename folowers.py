@@ -29,8 +29,8 @@ __________________________________
 
 """)
 
-id = '5091897301'
-token = '6687705957:AAFzvcCzEAXjcTX8l8rWmv924G08mcIGNmw'
+id = '6546314923'
+token = '6953255013:AAFAAwT1jZxwvgOVDOEJQFpn6iB_kXKl9lQ'
 followers = 0
 y = '\033[0;93m'
 #the first input
